@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" >
+  <img src="https://raw.githubusercontent.com/joanarepinaldo/data_science/main/logo.png" >
 </p>
 
 <h1> Joana Repinaldo</h1>
